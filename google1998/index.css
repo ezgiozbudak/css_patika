@@ -1,0 +1,56 @@
+.resim{
+    height: fit-content;
+    width: 90%;  
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.bosluk{
+    width: 75%;
+    height: 5px;
+    margin:auto;
+}
+
+.div2{
+    background-color: rgb(185, 185, 185);
+}
+.sol{
+    width: 40%;
+    height: 90px;
+    float: left;
+    background-color: #7EE5DA;
+    padding-top: 10px;
+}
+
+.bosluk2{
+    width: 0.5%;
+    height: 100px;
+    background-color: white;
+    float: left;
+    
+}
+
+.orta{
+    height: 90px;
+    width: 19%;
+    float: left;
+    background-color: #70CCC2;
+    padding-top: 10px;
+}
+
+.sag{
+    height: 90px;
+    width: 40%;
+    float: left;
+    background-color: #62B3AA;
+    padding-top: 10px;
+}
+
+footer{
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+    
+}
